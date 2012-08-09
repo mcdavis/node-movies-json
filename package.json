@@ -1,0 +1,11 @@
+{
+    "name": "NodeMovies"
+  , "version": "1.0.0"
+  , "private": true
+  , "dependencies": {
+      "express": "> 0"
+  }
+  , "scripts": {
+    "start": "npm install && node server.js"
+  }  
+}
